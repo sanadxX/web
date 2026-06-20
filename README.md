@@ -1,3 +1,3 @@
-To view the site click on this link
+##  Check Out My Work
 
-https://sanadxx.github.io/web/
+[**Visit my site** →](https://sanadxx.github.io/web/)
