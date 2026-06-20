@@ -12,7 +12,7 @@ const profile = {
   name: "Sanad Almnaseer",
   bio: "Dev .lua .html .css .js .py",
   avatarUrl:
-    "https://i.top4top.io/p_3822xl5z60.jpg",
+    "https://raw.githubusercontent.com/sanadxX/logo/refs/heads/main/IMG_20260130_193347_942.jpg",
 };
 
 const socialLinks: SocialLink[] = [
